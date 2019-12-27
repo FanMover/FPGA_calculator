@@ -1,0 +1,5 @@
+`include "./textlcd_3.v"
+`include "./testbench.v"
+`include "./calc_16x16.v"
+`include "./bcdtobin.v"
+`include "./bintobcd.v"
