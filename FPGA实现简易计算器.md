@@ -1423,7 +1423,7 @@ endmodule
 
 ![QQ截图20191227145945](.\image\20191227145945.png)
 
-![QQ截图20191227150024](.\image\QQ截图20191227150024.png)
+![QQ截图20191227150024]( https://github.com/FanMover/FPGA_calculator/tree/master/image/QQ截图20191227150024.png)
 
 #### ②输入do sim.do开始仿真，编译不通过根据报错信息检查源码
 
